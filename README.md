@@ -1,4 +1,4 @@
-![logo](https://github.com/ManojVS2001/ManojVs2001/blob/main/PicsArt_05-05-05.34.13.jpg)
+
 <h1 align="center">Hi 👋, I'm Manoj S 🙂 </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
